@@ -29,11 +29,13 @@ errors . These misunderstandings might bring about litigation.</p>
 Fungibility is based on the premise of being interchangeable . Fungible ~ (of goods contracted for without an individual specimen being specified) able to 
 replace or be replaced by another identical item; mutually interchangeable.
 I want my legal document to be the same document despite any changes in clauses that might occur , this presents us with a challenge , because once a change
-is made to a legal document logically this is a different contract because I have added or removed clauses but legally this is the same contract with modifications.
+is made to a legal document logically this is a different contract because I have added or removed clauses but legally this is the same contract with ****modifications.
 We want our contracts to be semi-fungible , but what does that mean ?
 I have tried to search for the meaning of semi-fungibility and came across the below pictorial on opensea 
 
 ![image](https://user-images.githubusercontent.com/16210221/137992085-b0d6e478-5f29-40f1-915b-254ac5252f05.png)
+
+
 
 
 
