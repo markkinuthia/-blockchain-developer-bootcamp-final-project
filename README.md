@@ -26,15 +26,19 @@ errors . These misunderstandings might bring about litigation.</p>
 
 ## Semi-Fungibility 
 
-Fungibility is based on the premise of being interchangeable . Fungible ~ (of goods contracted for without an individual specimen being specified) able to 
+Fungibility is based on the premise of a good being interchangeable . Fungible ~ (of goods contracted for without an individual specimen being specified) able to 
 replace or be replaced by another identical item; mutually interchangeable.
 I want my legal document to be the same document despite any changes in clauses that might occur , this presents us with a challenge , because once a change
-is made to a legal document logically this is a different contract because I have added or removed clauses but legally this is the same contract with ****modifications.
+is made to a legal document logically this is a different contract because I have added or removed clauses but legally this is the same contract with **modifications**.
 We want our contracts to be semi-fungible , but what does that mean ?
 I have tried to search for the meaning of semi-fungibility and came across the below pictorial on opensea 
 
 ![image](https://user-images.githubusercontent.com/16210221/137992085-b0d6e478-5f29-40f1-915b-254ac5252f05.png)
 
+Taking the ticket example as a point of reference , the same way a ticket holder had various seat options on the day of purchase is the same way contract parties have 
+various positions to take during finalizing of a contract agreement . This would mean that in the course of the contract if the position of one of the party changes , they 
+have to all go back to the initial contract and negotiate to introduce a clause that represents the change in their position . in the ticket example this would mean issuing 
+a new ticket with only the seat number being changed , for the contract this would mean making a modification to the contract and sharing it with all parties .
 
 
 
